@@ -27,7 +27,7 @@ class EmployeeManagementSystem:
             employee = Employees(name, age, e_id, department)
             self.employees.append(employee)
 
-        def retrieve_employee(self,e_id):
+        def get_employee(self,e_id):
             for e in self.employees:
                 if e.e_id == e_id:
                     return e
