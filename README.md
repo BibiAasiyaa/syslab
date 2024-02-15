@@ -19,7 +19,7 @@ _Retrieving employee with wrong Id_
 
 ===================================================
 
-_Entering age as string data tyoe_
+_Entering age as string data type_
 ![image](https://github.com/BibiAasiyaa/syslab/assets/158258718/f1986374-6fdd-4536-9a42-fd4d4aafe9b7)
 
 ===================================================
